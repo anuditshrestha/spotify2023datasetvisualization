@@ -42,4 +42,3 @@ Based on the completed dashboard, several insights can be drawn from the visuals
 *   Top Tracks: The dashboard features a visual showcasing the Top five most streamed tracks, allowing users to quickly identify the most popular songs by total streams and see their associated artist and cover art.
 *   Filtering: Slicers allow users to filter the dashboard by Tracks, Date range, and Artist, enabling interactive exploration of the data and insights specific to selected criteria. The ability to edit interactions allows control over which visuals respond to each filter selection.
 
-These insights are derived directly from the visuals created and the steps followed in building the dashboard as described in the source transcript.
