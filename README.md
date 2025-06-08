@@ -1,6 +1,6 @@
-**Project Title**
 
-Spotify Music Analysis Dashboard
+
+**Spotify Music Analysis Dashboard**
 
 This project demonstrates how to **build an end-to-end music analysis dashboard using a Spotify dataset in Power BI**. The dashboard allows for exploration of music data, including total streams, tracks, average streams, trends over time, monthly and daily performance, details on the most streamed tracks, and top tracks.
 
